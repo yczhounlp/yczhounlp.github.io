@@ -48,24 +48,23 @@ Peng Xia, **Yuechi Zhou**, Ziyan Zhang, Zecheng Tang, Juntao Li
 
 # 🗞️ Projects
 <span class='anchor' id='projects'></span>
-- Pretraining of OpenBA-V2 (Soochow University)
-- Develop the SFT code of LLaMA-2 and OpenBA-V2 in Chinese AI chips Teco T100 (Tecorigin)
-- Generation Acceleration of Large Language Models (Huawei Cloud)
-- CCF-Tencent Rhino Bird Fund (CCF and Tencent)
+- Participate in the pre-training of OpenBA-V2 (evaluation) in Soochow University.
+- Develop prompt selection algorithms in model scheduling (Huawei Cloud).
+- Generation Acceleration of Large Language Models (Huawei Cloud).
 
 
 # 🎖 Honors and Awards
-- Soochow University National Scholarship for Graduate Students
-- Soochow University Graduate Outstanding Scholarship
-- Soochow University Diligence and Encouragement Scholarship
-- Soochow University Excellent Graduation Thesis for Undergraduate Students
+
+- Third Prize in Teco-RAG Large Model Development Challenge
 - Soochow University Outstanding Graduate Student
-- Champion of Huawei Shengsi Model Development Challenge Competition
+- Soochow University First-Class Academic Scholarship
+- National Encouragement Scholarship
+- Soochow University Diligence and Encouragement Scholarship
+
 
 # 📖 Educations
 - *2019.09 - 2023.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 - *2023.06 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 
 # 💻 Internships
-- *2024.08 - 2024.11*, Huawei Cloud System AI Innovation Lab, China.
-- *2024.11 - current*, Tencent AI Lab, China.
+- *2024.11 - 2025.02*, Huawei Cloud System AI Innovation Lab, China.
