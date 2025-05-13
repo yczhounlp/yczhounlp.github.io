@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yi Su (苏仪)"
+  name             : "Yuechi Zhou (周月驰)"
   avatar           : "images/profile.png"
   bio              : "Soochow University"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YAvMAQwAAAAJ&hl=en&oi=ao"
-  email            : "yisunlp@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NoHP41cAAAAJ&hl=zh-CN&oi=ao"
+  email            : "20234227018@stu.suda.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yisunlp"
+  github           : "yczhounlp"
   google_plus      :
   keybase          :
   instagram        :
