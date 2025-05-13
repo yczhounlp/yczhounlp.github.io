@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yuechi Zhou (周月驰), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) at Soochow University. In 2025.09, I will pursue a Ph.D. under Professor [Li Zhenghua](https://web.suda.edu.cn/zhli13/) at Suzhou University (Master-PhD combined program).
+Hi, I am Yuechi Zhou (周月驰), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) at Soochow University. In 2025.09, I will pursue a Ph.D. under Prof. [Li Zhenghua](https://web.suda.edu.cn/zhli13/) at Suzhou University (Master-PhD combined program).
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
