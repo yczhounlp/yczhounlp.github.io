@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "About me"
-description              : "Do something important"
+title                    : "Yuechi Zhou Homepage"
+description              : "God helps those who help themselves."
 repository               : "yczhounlp/yczhounlp.github.io"
 google_scholar_stats_use_cdn : false
 
