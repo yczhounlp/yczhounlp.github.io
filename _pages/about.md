@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yuechi Zhou (周月驰), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) at Soochow University. In 2025.09, I will pursue a Ph.D. under Professor Li Zhenghua at Suzhou University (Master-PhD combined program).
+Hi, I am Yuechi Zhou (周月驰), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) at Soochow University. In 2025.09, I will pursue a Ph.D. under Professor [Li Zhenghua](https://web.suda.edu.cn/zhli13/) at Suzhou University (Master-PhD combined program).
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
@@ -48,7 +48,7 @@ Peng Xia, **Yuechi Zhou**, Ziyan Zhang, Zecheng Tang, Juntao Li
 
 # 🗞️ Projects
 <span class='anchor' id='projects'></span>
-- Participate in the pre-training of OpenBA-V2 (evaluation) in Soochow University.
+- Participate in the pre-training of OpenBA-V2 in Soochow University (evaluation).
 - Develop prompt selection algorithms in model scheduling (Huawei Cloud).
 - Generation Acceleration of Large Language Models (Huawei Cloud).
 
@@ -67,4 +67,4 @@ Peng Xia, **Yuechi Zhou**, Ziyan Zhang, Zecheng Tang, Juntao Li
 - *2023.06 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 
 # 💻 Internships
-- *2024.11 - 2025.02*, Huawei Cloud System AI Innovation Lab, China.
+- *2024.11 - 2025.02*, Huawei Cloud System AI Innovation Lab, Hangzhou, China.
