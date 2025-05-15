@@ -25,11 +25,22 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 > Exploration is limitless, innovation knows no boundaries.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper is confirmed as Outstanding Paper by NLPCC 2024!
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by NLPCC 2024!
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 
 # 📝 Publications 
+
+`ACL 2025 findings` [ALW: Adaptive Layer-Wise contrastive decoding enhancing reasoning ability in Large Language Models]
+
+**Yuechi Zhou**, Chuyue Zhou, Jianxin Zhang, Juntao Li, Min Zhang
+
+
+`ACL 2025 main` [Accurate KV Cache Quantization with Outlier Tokens Tracing]
+
+Yi Su\*, **Yuechi Zhou\***, Quantong Qiu, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
+
 
 `NLPCC 2024` [The Benefits in Shallow: Merge Decoding Across Large Language Model Layers](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_30)
 
