@@ -42,7 +42,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 Yi Su\*, **Yuechi Zhou\***, Quantong Qiu, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
 
 
-`NLPCC 2024` [The Benefits in Shallow: Merge Decoding Across Large Language Model Layers](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_30)
+`NLPCC 2024 Outstanding` [The Benefits in Shallow: Merge Decoding Across Large Language Model Layers](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_30)
 
 **Yuechi Zhou**, Chuyue Zhou, Wenjing Xie, Xinrui Wang, Jiuchang Chen, Zhenghua Ni, Juntao Li
 
@@ -60,6 +60,7 @@ Peng Xia, **Yuechi Zhou**, Ziyan Zhang, Zecheng Tang, Juntao Li
 # 🗞️ Projects
 <span class='anchor' id='projects'></span>
 - Participate in the pre-training of OpenBA-V2 in Soochow University (evaluation).
+- Participate in the SFT code development of LLaMA-2 and OpenBA-V2 in Chinese AI chips Tecorigin T100 (evaluation).
 - Develop prompt selection algorithms in model scheduling (Huawei Cloud).
 - Generation Acceleration of Large Language Models (Huawei Cloud).
 
