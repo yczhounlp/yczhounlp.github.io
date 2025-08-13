@@ -32,12 +32,12 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 
 # 📝 Publications 
 
-`ACL 2025 findings` [ALW: Adaptive Layer-Wise contrastive decoding enhancing reasoning ability in Large Language Models]
+`ACL 2025 findings` [ALW: Adaptive Layer-Wise contrastive decoding enhancing reasoning ability in Large Language Models](https://aclanthology.org/2025.findings-acl.447.pdf)
 
 **Yuechi Zhou**, Chuyue Zhou, Jianxin Zhang, Juntao Li, Min Zhang
 
 
-`ACL 2025 main` [Accurate KV Cache Quantization with Outlier Tokens Tracing]
+`ACL 2025 main` [Accurate KV Cache Quantization with Outlier Tokens Tracing](https://aclanthology.org/2025.acl-long.631.pdf)
 
 Yi Su\*, **Yuechi Zhou\***, Quantong Qiu, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
 
