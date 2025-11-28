@@ -31,7 +31,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 
 # 📝 Publications 
-`Arxiv 25.11` [$A^3$ Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving](https://arxiv.org/abs/2511.17560)
+`Arxiv 25.11` [$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving](https://arxiv.org/abs/2511.17560)
 
 **Yuechi Zhou**, Yi Su, Jianxin Zhang, Juntao Li, Qingrong Xia, Zhefeng Wang, Xinyu Duan, Baoxing Huai
 
@@ -61,7 +61,7 @@ Yi Su\*, **Yuechi Zhou\***, Quantong Qiu, Juntao Li, Qingrong Xia, Ping Li, Xiny
 Dan Qiao\*, Yi Su\* , Pinzheng Wang\*, Jing Ye, WenJing Xie, **Yuechi Zhou**, Yuyang Ding, Zecheng Tang, Jikai Wang, Yixin Ji, Yue Wang, Pei Guo, Zechen Sun, Zikang Zhang, Juntao Li, Pingfu Chao, Wenliang Chen, Guohong Fu, Guodong Zhou, Qiaoming Zhu, Min Zhang
 
 
-`Arxiv 25.03` [Chinese grammatical error correction based on knowledge distillation](https://arxiv.org/abs/2208.00351)
+`Arxiv 22.08` [Chinese grammatical error correction based on knowledge distillation](https://arxiv.org/abs/2208.00351)
 
 Peng Xia, **Yuechi Zhou**, Ziyan Zhang, Zecheng Tang, Juntao Li
 
@@ -85,7 +85,8 @@ Peng Xia, **Yuechi Zhou**, Ziyan Zhang, Zecheng Tang, Juntao Li
 
 # 📖 Educations
 - *2019.09 - 2023.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
-- *2023.06 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2023.09 - 2025.06*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2025.06 - current*, PHD, Institute of Computer Science and Technology, Soochow University, Suzhou.
 
 # 💻 Internships
 - *2024.11 - 2025.02*, Huawei Cloud System AI Innovation Lab, Hangzhou, China.
