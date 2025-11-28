@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yuechi Zhou (周月驰), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) at Soochow University. In 2025.09, I will pursue a Ph.D. under Prof. [Li Zhenghua](https://web.suda.edu.cn/zhli13/) at Soochow University (Master-PhD combined program).
+Hi, I am Yuechi Zhou (周月驰), a second-year graduate student supervised by Assoc. Prof. [Juntao Li](https://lijuntaopku.github.io) at Soochow University. From 2025.09, I pursue a Ph.D. under Prof. [Li Zhenghua](https://web.suda.edu.cn/zhli13/) at Soochow University (Master-PhD combined program).
 
 Before this, I received my Bachelor’s degree (2019-2023, computer science) from Soochow University.
 
@@ -31,6 +31,15 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 
 # 📝 Publications 
+`Arxiv 25.11` [$A^3$ Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving](https://arxiv.org/abs/2511.17560)
+
+**Yuechi Zhou**, Yi Su, Jianxin Zhang, Juntao Li, Qingrong Xia, Zhefeng Wang, Xinyu Duan, Baoxing Huai
+
+
+`Arxiv 25.07` [CaliDrop: KV Cache Compression with Calibration](https://arxiv.org/abs/2507.19906)
+
+Yi Su, Quantong Qiu, **Yuechi Zhou**, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang
+
 
 `ACL 2025 findings` [ALW: Adaptive Layer-Wise contrastive decoding enhancing reasoning ability in Large Language Models](https://aclanthology.org/2025.findings-acl.447.pdf)
 
