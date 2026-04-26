@@ -25,12 +25,18 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 > Exploration is limitless, innovation knows no boundaries.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper are accepted by Information Processing and Management!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper is confirmed as Outstanding Paper by NLPCC 2024!
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by NLPCC 2024!
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 
 # 📝 Publications 
+`IPM 26.04` $ALD^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models 
+
+**Yuechi Zhou**, Morunliu Yang, Jiaxu Zhang, Juntao Li, Siwei Feng
+
+
 `Arxiv 25.11` [$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving](https://arxiv.org/abs/2511.17560)
 
 **Yuechi Zhou**, Yi Su, Jianxin Zhang, Juntao Li, Qingrong Xia, Zhefeng Wang, Xinyu Duan, Baoxing Huai
