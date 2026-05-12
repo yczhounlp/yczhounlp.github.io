@@ -32,7 +32,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 
 # 📝 Publications 
-`IPM 26.04` $ALD^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models 
+`IPM 26.04` [$ALD^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models](https://www.sciencedirect.com/science/article/pii/S0306457326002608)
 
 **Yuechi Zhou**, Morunliu Yang, Jiaxu Zhang, Juntao Li, Siwei Feng
 
