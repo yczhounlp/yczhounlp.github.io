@@ -25,6 +25,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 > Exploration is limitless, innovation knows no boundaries.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2026!
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by Information Processing and Management!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by ACL 2025!
 - *2024.10*: &nbsp;🎉🎉 One paper is confirmed as Outstanding Paper by NLPCC 2024!
