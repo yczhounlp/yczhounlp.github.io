@@ -32,14 +32,19 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 - *2024.05*: &nbsp;🎉🎉 Releasing our new pretrained model: [OpenBA-V2](https://arxiv.org/pdf/2405.05957)!
 
 # 📝 Publications 
+
+`EMNLP 2026 Main` [$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving](https://arxiv.org/abs/2511.17560)
+
+**Yuechi Zhou**, Yi Su, Jianxin Zhang, Juntao Li, Qingrong Xia, Zhefeng Wang, Xinyu Duan, Baoxing Huai
+
+
+`EMNLP 2026 Main` [LongFlow: Efficient KV Cache Compression for Reasoning Models]
+Yi Su, Zhenxu Tian, Dan Qiao, **Yuechi Zhou**, Zheming Yang, Juntao Li, Min Zhang
+
+
 `IPM 26.04` [$ALD^2$: Adaptive Layer-wise Denoising Decoding for Hallucinations Mitigation in Large Vision-Language Models](https://www.sciencedirect.com/science/article/pii/S0306457326002608)
 
 **Yuechi Zhou**, Morunliu Yang, Jiaxu Zhang, Juntao Li, Siwei Feng
-
-
-`Arxiv 25.11` [$A^3$: Attention-Aware Accurate KV Cache Fusion for Fast Large Language Model Serving](https://arxiv.org/abs/2511.17560)
-
-**Yuechi Zhou**, Yi Su, Jianxin Zhang, Juntao Li, Qingrong Xia, Zhefeng Wang, Xinyu Duan, Baoxing Huai
 
 
 `Arxiv 25.07` [CaliDrop: KV Cache Compression with Calibration](https://arxiv.org/abs/2507.19906)
