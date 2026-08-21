@@ -38,7 +38,7 @@ My research interest includes Natural Language Processing (NLP), Large Language 
 **Yuechi Zhou**, Yi Su, Jianxin Zhang, Juntao Li, Qingrong Xia, Zhefeng Wang, Xinyu Duan, Baoxing Huai
 
 
-`EMNLP 2026 Main` [LongFlow: Efficient KV Cache Compression for Reasoning Models]
+`EMNLP 2026 Main` [LongFlow: Efficient KV Cache Compression for Reasoning Models]()
 Yi Su, Zhenxu Tian, Dan Qiao, **Yuechi Zhou**, Zheming Yang, Juntao Li, Min Zhang
 
 
